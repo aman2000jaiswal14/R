@@ -64,9 +64,9 @@ cat("yl ",yl,fill=TRUE)
 
 ## deleting variable
 # rm()
-ls()
+print(ls())
 rm(v1)
-ls()
+print(ls())
 
 
 
